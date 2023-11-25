@@ -1,6 +1,8 @@
 # TinyBot
 TinyBot is a modular discord bot that retrives, and stores random pieces of art from the Metropolitan Museum of Art
-The department and what keyword to search for are provided by the user. These results are then stored into a database that results can be retrived at a later time.
+The department and what keyword to search for are provided by the user.
+
+These results are then stored into a database that results can be retrived at a later time.
 TinyBot also serves as an example for basic commands, and API/database integration with a discord bot for educational or reference purposes.
 
 
